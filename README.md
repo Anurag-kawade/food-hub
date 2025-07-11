@@ -15,7 +15,6 @@ Backend integration will be added in future updates.
 
 ## ✨ Features
 - Clean & responsive UI
-- Simple navigation for food categories
 - Smooth animations and effects
 - Mobile-friendly design
 
